@@ -4,6 +4,9 @@ body {
   text-decoration: none;
   background-color: #EFF6E0;
 }
+h4{
+  color: black;
+}
 
 h1, h2 {
   font-family: 'Raleway', sans-serif;
